@@ -1,0 +1,157 @@
+feature,importance
+Age,0.6098220604726104
+Years of Experience,0.3370009320854949
+Education Level_Bachelor's,0.02500925013847597
+Education Level_PhD,0.0045718130796145355
+Education Level_Master's,0.003965686832438909
+Job Title_Administrative Assistant,0.0031470555139920583
+Gender_Female,0.003131419960432529
+Gender_Male,0.002754425679646891
+Job Title_Senior Project Manager,0.0021973221994145147
+Job Title_Recruiter,0.0013641397815277938
+Job Title_Director of Marketing,0.0011705059853288331
+Job Title_Junior Business Operations Analyst,0.0009004447238257248
+Job Title_Senior Product Manager,0.000893103107331042
+Job Title_Senior Marketing Manager,0.0008461600493100103
+Job Title_Director of Operations,0.0003003084944062118
+Job Title_Senior Project Coordinator,0.00028533528638345846
+Job Title_Senior Operations Manager,0.0002468407151918761
+Job Title_Senior Human Resources Manager,0.00023891816037611518
+Job Title_Junior Marketing Specialist,0.00022937657097942384
+Job Title_Senior Marketing Analyst,0.00020678796571357234
+Job Title_Senior Marketing Specialist,0.0001955499696984389
+Job Title_Senior Business Development Manager,0.000194331279805819
+Job Title_Senior Financial Manager,0.00017182993029748347
+Job Title_Senior Data Scientist,0.00013869439423261037
+Job Title_Director of Human Resources,0.00012881420301701785
+Job Title_Senior Data Engineer,0.00011415441121226616
+Job Title_HR Generalist,0.00010798152365895303
+Job Title_Senior Financial Analyst,0.00010520806366652537
+Job Title_Senior Software Engineer,9.990316564142786e-05
+Job Title_Senior Data Analyst,8.546703957581113e-05
+Job Title_Junior Marketing Manager,7.475405574618174e-05
+Job Title_Senior Operations Coordinator,4.0641018897132414e-05
+Job Title_Junior Project Manager,3.635453106763254e-05
+Job Title_Junior Operations Manager,3.545666940087938e-05
+Job Title_Junior Marketing Coordinator,2.9064622715652282e-05
+Job Title_Junior Business Development Associate,2.5434529584277734e-05
+Job Title_Senior Operations Analyst,2.375902819039148e-05
+Job Title_Senior Product Designer,2.294203245004685e-05
+Job Title_Junior Financial Analyst,2.2671862882119215e-05
+Job Title_Senior UX Designer,2.023373467319286e-05
+Job Title_Senior Business Analyst,1.184117349630362e-05
+Job Title_Junior Product Manager,1.1367855087398818e-05
+Job Title_Senior Software Developer,8.004276696515265e-06
+Job Title_Senior Sales Manager,5.531103400916989e-06
+Job Title_Junior Business Analyst,5.472329987424322e-06
+Job Title_Director of Finance,1.0692702679771274e-06
+Job Title_Junior Sales Representative,9.902018989791211e-07
+Job Title_Junior Accountant,4.829799176225032e-07
+Job Title_Marketing Coordinator,1.0794033808522174e-07
+Job Title_Senior Engineer,0.0
+Job Title_Senior Financial Advisor,0.0
+Job Title_Sales Operations Manager,0.0
+Job Title_Senior Account Executive,0.0
+Job Title_Senior Account Manager,0.0
+Job Title_Senior Graphic Designer,0.0
+Job Title_Senior Accountant,0.0
+Job Title_Sales Manager,0.0
+Job Title_Sales Director,0.0
+Job Title_Sales Associate,0.0
+Job Title_VP of Finance,0.0
+Job Title_Senior Consultant,0.0
+Job Title_VP of Operations,0.0
+Job Title_Senior IT Project Manager,0.0
+Job Title_Senior HR Manager,0.0
+Job Title_Strategy Consultant,0.0
+Job Title_Senior Software Architect,0.0
+Job Title_Senior Scientist,0.0
+Job Title_Senior Sales Representative,0.0
+Job Title_Senior Researcher,0.0
+Job Title_Senior Research Scientist,0.0
+Job Title_Social Media Manager,0.0
+Job Title_Software Developer,0.0
+Job Title_Senior Quality Assurance Analyst,0.0
+Job Title_Software Manager,0.0
+Job Title_Software Project Manager,0.0
+Job Title_Senior Product Marketing Manager,0.0
+Job Title_Senior Product Development Manager,0.0
+Job Title_Senior HR Specialist,0.0
+Job Title_Supply Chain Analyst,0.0
+Job Title_Supply Chain Manager,0.0
+Job Title_Technical Recruiter,0.0
+Job Title_Senior Marketing Director,0.0
+Job Title_Senior Marketing Coordinator,0.0
+Job Title_Technical Writer,0.0
+Job Title_Training Specialist,0.0
+Job Title_Senior Manager,0.0
+Job Title_Senior IT Consultant,0.0
+Job Title_UX Designer,0.0
+Job Title_Senior Human Resources Coordinator,0.0
+Job Title_Research Scientist,0.0
+Job Title_Junior Web Developer,0.0
+Job Title_Public Relations Manager,0.0
+Job Title_HR Manager,0.0
+Job Title_Financial Manager,0.0
+Job Title_Financial Analyst,0.0
+Job Title_Financial Advisor,0.0
+Job Title_Event Coordinator,0.0
+Job Title_Director of Sales and Marketing,0.0
+Job Title_Director of Sales,0.0
+Job Title_Director of Product Management,0.0
+Job Title_Director of Human Capital,0.0
+Job Title_Director of HR,0.0
+Job Title_Director of Engineering,0.0
+Job Title_Director of Business Development,0.0
+Job Title_Director,0.0
+Job Title_Digital Marketing Manager,0.0
+Job Title_Digital Content Producer,0.0
+Job Title_Data Scientist,0.0
+Job Title_Data Entry Clerk,0.0
+Job Title_Data Analyst,0.0
+Job Title_Customer Success Rep,0.0
+Job Title_Customer Service Representative,0.0
+Job Title_Customer Service Rep,0.0
+Job Title_Customer Service Manager,0.0
+Job Title_Creative Director,0.0
+Job Title_Content Marketing Manager,0.0
+Job Title_Chief Technology Officer,0.0
+Job Title_Chief Data Officer,0.0
+Job Title_Business Intelligence Analyst,0.0
+Job Title_Business Development Manager,0.0
+Job Title_Business Analyst,0.0
+Job Title_Accountant,0.0
+Job Title_Graphic Designer,0.0
+Job Title_Help Desk Analyst,0.0
+Job Title_Project Manager,0.0
+Job Title_IT Manager,0.0
+Job Title_Project Engineer,0.0
+Job Title_Product Manager,0.0
+Job Title_Product Designer,0.0
+Job Title_Principal Engineer,0.0
+Job Title_Operations Director,0.0
+Job Title_Operations Analyst,0.0
+Job Title_Office Manager,0.0
+Job Title_Marketing Manager,0.0
+Job Title_Marketing Analyst,0.0
+Job Title_Junior Web Designer,0.0
+Job Title_Junior UX Designer,0.0
+Job Title_Junior Software Engineer,0.0
+Job Title_Junior Software Developer,0.0
+Job Title_Junior Social Media Manager,0.0
+Job Title_Junior Recruiter,0.0
+Job Title_Junior Operations Coordinator,0.0
+Job Title_Junior Operations Analyst,0.0
+Job Title_Junior Marketing Analyst,0.0
+Job Title_Junior HR Generalist,0.0
+Job Title_Junior HR Coordinator,0.0
+Job Title_Junior Financial Advisor,0.0
+Job Title_Junior Developer,0.0
+Job Title_Junior Designer,0.0
+Job Title_Junior Data Scientist,0.0
+Job Title_Junior Data Analyst,0.0
+Job Title_Junior Copywriter,0.0
+Job Title_Junior Advertising Coordinator,0.0
+Job Title_Junior Account Manager,0.0
+Job Title_IT Support Specialist,0.0
+Job Title_Web Developer,0.0
